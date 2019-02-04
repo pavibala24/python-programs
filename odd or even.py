@@ -1,4 +1,5 @@
-print("*----Check odd or even----*")
+print("*----Check ODD or EVEN----*")
+print("---------------------------")
 x = int(input("ENTER NUMBER= "))
 if (x % 2) == 0:
    print("{0} is Even".format(x))
