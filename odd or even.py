@@ -1,4 +1,4 @@
-print("*----Check ODD or EVEN----*")
+print("*----CHECK ODD or EVEN----*")
 print("---------------------------")
 x = int(input("ENTER NUMBER= "))
 if (x % 2) == 0:
