@@ -1,4 +1,4 @@
-n = 16
+n = 20
 #n = int(input("Enter a number: "))
 if n < 0:
    print("Enter a positive number")
