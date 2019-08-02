@@ -1,3 +1,3 @@
 a = str(input())
-x = a[::-1]
-print (x)
+b = a[::-1]
+print (b)
